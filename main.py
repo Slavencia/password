@@ -12,7 +12,7 @@ vvod = input("Выберите как хотите составить парол
 password = ""
 
 
-
+#сделать просто функцию 
 if vvod == "1":
     number = int(input("Напишите количество символов: "))
     for i in range(number):
